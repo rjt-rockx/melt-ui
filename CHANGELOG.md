@@ -1,5 +1,11 @@
 # @melt-ui/svelte
 
+## 0.23.1
+
+### Patch Changes
+
+- 7d7b18e8: refactor: improved accordion types
+
 ## 0.23.0
 
 ### Minor Changes
